@@ -1,0 +1,38 @@
+footer{
+    position: relative;
+}
+footer .foot{
+    width: 100vw;
+    height: 60px;
+    background-color: rgb(246, 242, 242);
+    position:fixed;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+    box-shadow: 2px 2px 8px rgba(1,1,1,1);
+}
+.foot button img{
+    width: 30px;
+}
+.foot button{
+    display: flex;
+    align-items: center;
+    padding: 6px 24px;
+    border: 1px solid rgb(184, 180, 180);
+    border-radius: 5px;
+}
+footer div {
+    display: flex;
+    height: 140px;
+    justify-content: center;
+    align-items: end;
+}
+footer div ol{
+    display: flex;
+    column-gap: 20px;
+    list-style: none;
+    font-size: 14px;
+    color: rgb(78, 77, 77);
+}

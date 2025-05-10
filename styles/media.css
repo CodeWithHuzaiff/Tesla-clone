@@ -1,0 +1,106 @@
+@media (max-width:800px){
+    .inner-2 a,
+    .inner-3 img{
+        display: none;
+    }
+    .on-media-1{
+        display:flex;
+    }
+}
+@media (max-width:600px){
+    .celebrate{
+        justify-content: space-around;
+    }
+    .sec{
+        height: 80vh;
+        background-position:center center;
+        background-size:cover;   
+    }
+    .about-1 button:first-child{
+        padding: 12px 50px;
+        font-size: 13px;
+        margin-right: 6px;
+    }
+    .about-1 button:nth-child(2){
+        padding: 12px 50px;
+        font-size: 13px;
+    }
+    .about-1 h1{
+        font-size: 60px;
+    }
+    .about-1 h2{
+        font-size: 18px;
+        text-decoration:1px underline;
+        margin-bottom: 40px;
+    }
+    .f-sec-2 button:first-child{
+        padding: 12px 50px;
+        font-size: 13px;
+        margin-right: 6px;
+    }
+    .f-sec-2 button:nth-child(2){
+        padding: 12px 50px;
+        font-size: 13px;
+    }
+
+    .ct-bt button:first-child{
+        padding: 12px 50px;
+        font-size: 13px;
+        margin-right: 6px;
+    }
+    .ct-bt button:nth-child(2){
+        padding: 12px 50px;
+        font-size: 13px;
+    }
+    .f-sec-4 button:first-child{
+        padding: 12px 50px;
+        font-size: 13px;
+        margin-right: 6px;
+    }
+    .f-sec-4 button:nth-child(2){
+        padding: 12px 50px;
+        font-size: 13px;
+    }
+    .f-sec-5 button:first-child{
+        padding: 12px 50px;
+        font-size: 13px;
+        margin-right: 6px;
+    }
+    .f-sec-5 button:nth-child(2){
+        padding: 12px 50px;
+        font-size: 13px;
+    }
+    .f-sec-6 button:first-child{
+        padding: 12px 50px;
+        font-size: 13px;
+        margin-right: 6px;
+    }
+    .f-sec-6 button:nth-child(2){
+        padding: 12px 50px;
+        font-size: 13px;
+    }
+    .f-sec-7 button:first-child{
+        padding: 12px 50px;
+        font-size: 13px;
+        margin-right: 6px;
+    }
+    .f-sec-7 button:nth-child(2){
+        padding: 12px 50px;
+        font-size: 13px;
+    }
+    .f-sec-8 button:first-child{
+        padding: 12px 50px;
+        font-size: 13px;
+        margin-right: 6px;
+    }
+    .f-sec-8 button:nth-child(2){
+        padding: 12px 50px;
+        font-size: 13px;
+    }
+    .f-sec-9 button:first-child{
+        padding: 12px 50px;
+        font-size: 13px;
+        margin-right: 6px;
+    }
+
+}
